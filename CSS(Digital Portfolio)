@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #dd80d5;
+    background-color: #b0e2c1;
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -24,7 +24,7 @@ section {
 }
 
 h2 {
-    background-color: #dd80d5;
+    background-color: #b0e2c1;
     color: #fff;
     padding: 10px;
 }
